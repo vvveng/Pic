@@ -1,6 +1,6 @@
 {
-"name":" Selfuse Fileball Icon", 
-"description":"by WWWeng", 
+"name":"Fileball Icon", 
+"description":"by Softly", 
 "icons":
     [
         {"name":"Emby", "url":"https://raw.githubusercontent.com/vvveng/Pic/main/Fileball/Emby.png"},
@@ -29,4 +29,4 @@
         {"name":"Nplayer", "url":"https://raw.githubusercontent.com/vvveng/Pic/main/Fileball/Nplayer.png"},
         {"name":"Infuse", "url":"https://raw.githubusercontent.com/vvveng/Pic/main/Fileball/Infuse.png"}
     ]
-		}
+}
